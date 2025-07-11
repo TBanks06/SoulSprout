@@ -112,7 +112,7 @@ const Contact = () => {
         <section className="location-map">
           <h2>Our Location</h2>
           <div className="map-placeholder">
-            {/* In a real app, this would be an embedded Google Map */}
+            {/* Later to  embed Google Map */}
             <p>Map would display here</p>
           </div>
         </section>
