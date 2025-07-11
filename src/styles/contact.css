@@ -6,7 +6,7 @@
 }
 
 .contact-hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), url('https://source.unsplash.com/random/1200x600/?contact') center/cover no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), url('https://source.unsplash.com/random/1200x600/?contact') center/cover no-repeat);
   color: white;
   text-align: center;
   padding: 100px 20px;

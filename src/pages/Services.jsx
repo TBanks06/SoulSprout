@@ -1,6 +1,6 @@
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import './styles/services.css';
+import '../styles/services.css';
 
 const Services = () => {
   const allServices = [
